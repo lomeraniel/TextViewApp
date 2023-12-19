@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextViewApp</string>
+    <string name="goodmorning">Good Morning</string>
+    <string name="user_greeting">Hello Friend!</string>
 </resources>
